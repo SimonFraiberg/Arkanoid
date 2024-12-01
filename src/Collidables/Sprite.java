@@ -1,4 +1,3 @@
-// 318816477 Simon Fraiberg.
 package Collidables;
 
 import biuoop.DrawSurface;
