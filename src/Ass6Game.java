@@ -1,4 +1,3 @@
-// 318816477 Simon Fraiberg.
 
 import Animations.AnimationRunner;
 import Levels.Asteroids;
